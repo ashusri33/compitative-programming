@@ -1,2 +1,1 @@
-# compitative-programming
-THIS IS REPOISTARY CONTAIN ALL THE COMPITATIVE PROGRAMIMING PROBBLEMS SOLVED BY ME FROM THE DIFFERENT CODING PLATEFORM
+This repoistary contain all the competitive programming problems solved by me from the different coding plateform
